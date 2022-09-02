@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+#
+# Use to generate various reverse shells and useful commands
 
 import argparse
 import netifaces as ni                                                                                                                                                                      
